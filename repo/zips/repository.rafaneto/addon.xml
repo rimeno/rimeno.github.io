@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.rafaneto"
     name="Rafaneto repository"
-    version="0.0.1"
+    version="0.0.2"
     provider-name="rimeno">
     <extension point="xbmc.addon.repository" name="Rafaneto repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/rimeno/repository.rafaneto/main/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/rimeno/repostiroy.rafaneto/main/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/rimeno/repository.rafaneto/main/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/rimeno/rimeno.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/rimeno/rimeno.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/rimeno/rimeno.github.io/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
