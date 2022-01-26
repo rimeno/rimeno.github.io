@@ -1,3 +1,6 @@
 [submodule "repo/repository.rafaneto"]
 	path = repo/repository.rafaneto
 	url = git@github.com:rimeno/repository.rafaneto.git
+[submodule "repo/script.module.snapcast"]
+	path = repo/script.module.snapcast
+	url = git@github.com:rimeno/script.module.snapcast.git
