@@ -1,0 +1,3 @@
+[submodule "repo/repository.rafaneto"]
+	path = repo/repository.rafaneto
+	url = git@github.com:rimeno/repository.rafaneto.git
