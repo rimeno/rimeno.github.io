@@ -7,3 +7,6 @@
 [submodule "service.snapcast.client"]
 	path = service.snapcast.client
 	url = https://github.com/rimeno/service.snapcast.client
+[submodule "script.snapcast.client"]
+	path = script.snapcast.client
+	url = https://github.com/rimeno/script.snapcast.client
