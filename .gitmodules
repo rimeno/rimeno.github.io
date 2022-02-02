@@ -10,3 +10,6 @@
 [submodule "repo/script.snapcast.client"]
 	path = repo/script.snapcast.client
 	url = https://github.com/rimeno/script.snapcast.client
+[submodule "repo/script.service.snapcast-client"]
+	path = repo/script.service.snapcast-client
+	url = https://github.com/rimeno/script.service.snapcast-client
