@@ -1,4 +1,4 @@
-# rimeno.gihub.io
+# rimeno.github.io
 
 ## Rafaneto
 
