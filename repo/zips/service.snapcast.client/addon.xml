@@ -17,6 +17,7 @@
     <source>https://github.com/rimeno/service.snapcast.client</source>
     <website></website>
     <email>rafaneto@punktona.org</email>
+    <broken>deprecated: see script.service.snapcast-client</broken>
     <assets>
         <icon>resources/icon.png</icon>
     </assets>
